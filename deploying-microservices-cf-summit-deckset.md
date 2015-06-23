@@ -6,7 +6,7 @@ slidenumbers: true
 ---
 
 ![left](images/IMG_4469.JPG)
-# Me
+# Don't ask for Stephan for discounts on sponsorship
 
 _Pieter Humphrey_ [@pieterhumphrey](http://twitter.com/pieterhumphrey)
 _Spring Marketing Guy (Slides by @mstine)_
