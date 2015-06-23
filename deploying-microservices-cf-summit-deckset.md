@@ -8,10 +8,10 @@ slidenumbers: true
 ![left](images/IMG_4469.JPG)
 # Me
 
-_Matt Stine_ [@mstine](http://twitter.com/mstine)
-_Principal Software Engineer_
+_Pieter Humphrey_ [@pieterhumphrey](http://twitter.com/pieterhumphrey)
+_Spring Marketing Guy (Slides by @mstine)_
 _Pivotal_
-[mstine@pivotal.io](mailto:mstine@pivotal.io)
+[phumphrey@pivotal.io](mailto:phumphrey@pivotal.io)
 
 ---
 
