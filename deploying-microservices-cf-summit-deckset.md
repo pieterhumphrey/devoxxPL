@@ -5,7 +5,7 @@ slidenumbers: true
 
 ---
 
-![left](images/mattmug.jpeg)
+![left](images/IMG_4469.JPG)
 # Me
 
 _Matt Stine_ [@mstine](http://twitter.com/mstine)
