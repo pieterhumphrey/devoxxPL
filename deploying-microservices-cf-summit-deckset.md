@@ -16,7 +16,7 @@ _Pivotal_
 ---
 
 ![right fit](images/cloud-native-book.jpg)
-# I wrote a little cloud book...
+# Matt Stine wrote a little cloud book...
 
 _FREE - Compliments of Pivotal_
 
